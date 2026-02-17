@@ -6,6 +6,23 @@ Welcome to the *Python Through Data Scraping* course! Over the next 12 weeks, yo
 
 To keep your computer organized and successful, we use **Virtual Environments**. This ensures our project's tools don't interfere with other projects on your machine.
 
+### 0. Clone the Repository (First Time Only)
+
+Before you do anything, you need to get this code onto your computer!
+
+1.  **Open your Terminal** (Mac/Linux) or **PowerShell** (Windows).
+2.  **Create a folder** for your coding projects (if you haven't already):
+    ```bash
+    mkdir codes
+    cd codes
+    ```
+3.  **Download this project** (Clone it):
+    ```bash
+    git clone https://github.com/Temiloluwa/python-for-beginners.git
+    cd python-for-beginners
+    ```
+4.  Now you are in the right place! Proceed to Step 1.
+
 ### 1. Set Up Your Environment
 
 First, open your terminal (Command Prompt on Windows, Terminal on Mac/Linux) and navigate to this folder.
@@ -130,3 +147,14 @@ One of the best features of using VS Code is the built-in debugger. It allows yo
 4.  Your code will run and pause at the red dot. You can now hover over variables to see what's inside them!
 
 📺 **[Click here to watch a YouTube tutorial on debugging Python in VS Code](https://www.youtube.com/results?search_query=debugging+python+in+vscode)**
+
+---
+
+## 🆘 Need Help?
+
+Stuck on a bug? Don't worry, it happens to every developer!
+
+**Ask Gemini!**
+You can paste your error message or your code into Google Gemini and ask for an explanation. It's like having a 24/7 tutor.
+
+✨ **[Click here to ask Gemini](https://gemini.google.com/)**
